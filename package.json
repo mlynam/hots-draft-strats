@@ -1,0 +1,42 @@
+{
+  "name": "hots-draft-strats",
+  "version": "0.0.1",
+  "description": "Provide strategy for Heroes of the Storm drafting.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlynam/hots-draft-strats.git"
+  },
+  "keywords": [
+    "hots",
+    "drafting",
+    "bots",
+    "strategy"
+  ],
+  "author": "mlynam@iteamnm.com",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/mlynam/hots-draft-strats/issues"
+  },
+  "homepage": "https://github.com/mlynam/hots-draft-strats#readme",
+  "devDependencies": {
+    "babel": "^6.23.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "css-loader": "^0.28.7",
+    "eslint": "^4.7.2",
+    "eslint-config-google": "^0.9.1",
+    "jest": "^21.1.0",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.5",
+    "webpack": "^3.6.0"
+  },
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "react": "^15.6.1",
+    "react-router": "^4.2.0"
+  }
+}
